@@ -1,0 +1,19 @@
+{
+  "name": "zongphp/tool",
+  "description": "工具组件包含开发中常用的一些小功能",
+  "type": "project",
+  "keywords": [
+    "tool"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "files": [],
+    "psr-4": {
+      "zongphp\\tool\\": "src"
+    }
+  }
+}
