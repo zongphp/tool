@@ -1,8 +1,8 @@
 {
   "name": "zongphp/tool",
-  "description": "工具组件包含开发中常用的一些小功能",
-  "type": "project",
+  "description": "工具组件",
   "keywords": [
+    "zongphp",
     "tool"
   ],
   "license": "MIT",
